@@ -1,5 +1,6 @@
 **Indian Sign Language Translator**
-Empowering communication for millions through AI-powered Indian Sign Language (ISL) recognition.
+
+<Empowering communication for millions through AI-powered Indian Sign Language (ISL) recognition>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧩 **Problem Statement**
 
