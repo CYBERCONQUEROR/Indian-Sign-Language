@@ -16,6 +16,7 @@ Our mission is to build a real-time, user-friendly ISL Translator that:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧠 **Approach & Solution**
+
 Despite limited datasets and language variation across regions, we aim to:
 
 >Collect and curate ISL gesture data from internet sources
@@ -82,7 +83,7 @@ git clone https://github.com/your-username/Indian-Sign-Language.git
 
 cd Indian-Sign-Language
 
-2.Install Dependencies
+2. Install Dependencies
 
 pip install -r requirements.txt
 
