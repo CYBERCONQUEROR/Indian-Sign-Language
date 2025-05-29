@@ -79,24 +79,24 @@ Gesture Encoding :	Custom hackathon_encoder.pkl, dikshita.pkl (not disclosed)
 
 1. Clone the Repository
 
-   git clone https://github.com/your-username/Indian-Sign-Language.git
+     git clone https://github.com/your-username/Indian-Sign-Language.git
 
-   cd Indian-Sign-Language
+     cd Indian-Sign-Language
 
 2. Install Dependencies
 
-   pip install -r requirements.txt
+     pip install -r requirements.txt
 
 3. Run the Application
 
-   python eng_to_hindi.py
+     python eng_to_hindi.py
 
-   python test.py
+     python test.py
 
-   🖼 These scripts offer two different GUI experiences.
+     🖼 These scripts offer two different GUI experiences.
 
-   ⚠️ Note: Due to file size and privacy limitations, trained model weights and label encoders are not uploaded. You won’t be able to run real-time detection without them. Please refer to the demo folder for 
-   application visuals.
+    ⚠️ Note: Due to file size and privacy limitations, trained model weights and label encoders are not uploaded. You won’t be able to run real-time detection without them. Please refer to the demo folder for 
+    application visuals.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
