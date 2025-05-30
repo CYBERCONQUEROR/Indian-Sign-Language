@@ -1,4 +1,4 @@
-**Indian Sign Language Translator**
+# Indian Sign Language Translator #
 
 <Empowering communication for millions through AI-powered Indian Sign Language (ISL) recognition>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
