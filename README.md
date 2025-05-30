@@ -17,7 +17,7 @@ Our mission is to build a real-time, user-friendly ISL Translator that:
 
 🧠 **Approach & Solution**
 
-![Dashboard Screenshot](public/images/ISHARA.png)
+![ISHARA Logo](https://github.com/CYBERCONQUEROR/Indian-Sign-Language/blob/main/ISHARA.png?raw=true)
 
 Despite limited datasets and language variation across regions, we aim to:
 
