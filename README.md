@@ -58,31 +58,20 @@ Feature	Description
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🛠️ **Tech Stack**
+
 | Technology               | Description                                     |
 | ------------------------ | ----------------------------------------------- |
 | **Python**               | Core backend logic, model integration           |
 | **OpenCV**               | Real-time camera input and frame processing     |
 | **YOLOv8**               | Sign detection using object detection           |
-| **LSTM**                 | Sign-to-sentence conversion (sequence modeling) |
+| **CNN**                  | For Gesture Recognization                       |
 | **Tkinter**              | Desktop GUI for user interaction                |
 | **Text-to-Speech**       | Speech output of translated signs               |
 | **Speech Recognition**   | Converts user voice to text                     |
 | **Google Translate API** | Translates voice to English for sign output     |
 | **Pickle**               | Saves model encoders and configurations         |
 | **Keras / TensorFlow**   | Deep learning framework for training            |
-
-🛠️ **Tech Stack**
-
-
-Frontend	: Python Tkinter for GUI
-
-Computer Vision :	OpenCV, NumPy, PIL
-
-Machine Learning :	TensorFlow, Keras (CNN, LSTM models)
-
-Speech & Translation :	gTTS, Google Translate API
-
-Gesture Encoding :	Custom hackathon_encoder.pkl, dikshita.pkl (not disclosed)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
